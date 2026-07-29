@@ -1,0 +1,11 @@
+/* TEAM */
+Owner: Magic Pictures
+Site: https://magicpicturees.com/
+Contact: mail@magicpicturees.in
+Location: Chennai, Tamil Nadu, India
+
+/* THANKS */
+Thanks to the cast, crew, collaborators, and creative partners behind Arikomban.
+
+/* TECHNOLOGY */
+HTML5, CSS3, JavaScript, SEO, Accessibility, Structured Data, Progressive Web App support.

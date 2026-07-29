@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+Host: magicpicturees.com
+Sitemap: https://magicpicturees.com/sitemap.xml
+
+# Crawl directives
+Disallow: /cgi-bin/
+Disallow: /private/
+Disallow: /tmp/
+Disallow: /admin/

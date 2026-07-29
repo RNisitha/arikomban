@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<browserconfig>
+  <msapplication>
+    <tile>
+      <square150x150logo src="/image/MAGIC%20PICTURES%20logo.png"/>
+      <TileColor>#0d0a08</TileColor>
+    </tile>
+  </msapplication>
+</browserconfig>
